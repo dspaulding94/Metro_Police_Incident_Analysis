@@ -12,6 +12,9 @@ If crime rates have increased with the growing population, are you at a higher r
 What type of crime should you expect to fall victim too?
 Are there areas you should avoid as you explore Nashville?
 
+## Related Dashboard:
+https://app.powerbi.com/groups/me/reports/3250db5d-19b1-4609-b903-81f21bfd73d9/ReportSection
+
 ## Data Sources:
 * Police Incident Reports: Data.nashville.gov 
 * Zip Code GeoJson Outlines: Data.nashville.gov 
