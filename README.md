@@ -1,4 +1,4 @@
-# Exloratory Analyis of Metro Police Incidents Reports
+# Exploratory Analysis of Metro Police Incidents Reports
 
 ## Summary
 A data exploration in crime instances reported in Davidson County (Nashville, TN) to determine if the growing population in Nashville has had a positive or negative effect in crime rates. 
