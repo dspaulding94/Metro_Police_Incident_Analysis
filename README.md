@@ -13,9 +13,9 @@ What type of crime should you expect to fall victim too?
 Are there areas you should avoid as you explore Nashville?
 
 ## Related Dashboard:
-https://app.powerbi.com/view?r=eyJrIjoiNzJjMmVmYTctNTkxZS00MDk5LTgzYzEtZjkwYTJhNjc3Y2JmIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
+https://app.powerbi.com/view?r=eyJrIjoiZmI4MmExNDItNzA3MC00Njc2LWIzMDAtOTYzYzI0ZDk0MzNlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 ## Data Sources:
-* Police Incident Reports: Data.nashville.gov 
-* Zip Code GeoJson Outlines: Data.nashville.gov 
+* Police Incident Reports: www.data.nashville.gov 
+* Zip Code GeoJson Outlines: www.data.nashville.gov 
 * Population Records: https://data.world/lukewhyte/us-population-by-zip-code-2010-2016
